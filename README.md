@@ -1,6 +1,6 @@
-# ai_radio
+# AI_radio
 
-A new Flutter application.
+A new Flutter application having a AI Assistant named ALAN which is used to play and do various operations on different channels present in the FM.
 
 ## Getting Started
 
