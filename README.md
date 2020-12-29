@@ -2,6 +2,8 @@
 
 A new Flutter application having a AI Assistant named ALAN which is used to play and do various operations on different channels present in the FM.
 
+Thank You @Pawan Kumar Bhaiya for guiding me to this innovative and beautiful application.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
